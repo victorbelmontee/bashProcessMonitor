@@ -11,8 +11,7 @@ Monitor de procesos en tiempo real desarrollado en Bash, ideal para supervisar c
 
 ## 📋 Tabla de Contenidos
 
-- [🚀 Características Principales](#-características-principales)  
-- [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)  
+- [🚀 Características Principales](#-características-principales)    
 - [📦 Instalación](#-instalación)  
 - [💡 Uso](#-uso)  
 - [📚 Documentación](#-documentación)  
@@ -30,17 +29,6 @@ Monitor de procesos en tiempo real desarrollado en Bash, ideal para supervisar c
 - **Interfaz Limpia**: Salida por terminal sin dependencias externas  
 - **Respaldo de Cursor**: Oculta/recupera el cursor para mejor experiencia visual  
 - **Manejo de Señales**: Captura `Ctrl+C` para una salida limpia  
-
----
-
-## 🛠️ Tecnologías Utilizadas
-
-| Tecnología | Versión | Uso |
-|------------|---------|-----|
-| **Bash**   | 4.0+    | Lógica principal y control de flujo |
-| **ps**     | —       | Recolección de procesos |
-| **diff**   | —       | Comparación de estados anteriores y actuales |
-| **tput**   | —       | Control de cursor y formato de terminal |
 
 ---
 
